@@ -28,16 +28,13 @@ img {
 
 .site-wrap {
   min-height: 100%;
-  margin-bottom: -142px;
+  margin-bottom: -143px;
 }
 
 .site-wrap:after {
   content: "";
   display: block;
-}
-
-.footer, .site-wrap:after {
-  height: 142px;
+  height: 143px;
 }
 
 body {
