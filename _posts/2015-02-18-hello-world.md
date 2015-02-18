@@ -3,7 +3,7 @@ layout:     post
 title:      Hello World!
 date:       2015-02-18
 summary:    MolView now has an official blog and here is why.
-categories: announcements vision
+categories: posts
 ---
 
 Everything around us changes and so does technology. You are probably using Google Chrome
