@@ -1,0 +1,30 @@
+---
+# Sass file with custom styles
+---
+
+#molview-logo
+{
+    max-height: 64px;
+    vertical-align: middle;
+}
+
+#molview-mark
+{
+    max-height: 30px;
+    margin: 0;
+    vertical-align: middle;
+}
+
+@media screen and (min-width: 500px)
+{
+    #molview-logo
+    {
+        max-height: 128px;
+    }
+
+    #molview-mark
+    {
+        max-height: 60px;
+        margin: 10px;
+    }
+}
