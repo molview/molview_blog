@@ -27,13 +27,12 @@ including buttons, dropdowns, number entries and even so called
 [galleries](https://msdn.microsoft.com/en-us/library/windows/desktop/dd940501%28v=vs.85%29.aspx).
 Ribbons would fit perfectly in the add-on oriented architecture of MolView 3 since
 they are very scalable. All you have to do to get an empty panel for tools is
-adding a new tab! I guess it will also be useful on touch devices since it does
+adding a new tab! I guess it will also be useful on tXouch devices since it does
 not disappear each time you click an item like a classic menu would.
 
 To get an idea of what a ribbon would look like, I created a very simple drawing
-(shown below) The drawing contains three main tool buttons (forward, backward and search,
-more about those later) and three possible tabs. Since the ribbon offers a lot of
-space the toolbars around the sketcher would no longer be required leaving more
-space for the actual editor!
+(shown below) The drawing contains three main tool buttons and three tabs. Since
+the ribbon offers a lot of space the toolbars around the sketcher would no longer
+be required leaving more space for the actual editor!
 
 ![MolView 3 Ribbon]({{ site.url }}/img/2015-03-09-ribbon.png)
