@@ -185,7 +185,7 @@ table {
   transition: all 0.2s ease-in-out;
   background: #fafafa;
   border-radius: 0.1875em;
-  border: 1px solid #f3f3f3;
+  border: 1px solid #bdbdbd;
   color: #333333;
   padding: 1em 1.5em;
 }
@@ -195,12 +195,7 @@ table {
 }
 
 .pagination a:hover, .pagination a:focus {
-  background: white;
-  color: #477dca;
-}
-
-.pagination a:active {
-  background: #f7f7f7;
+  background: #eee;
 }
 
 .wrap .measure {
