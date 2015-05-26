@@ -42,13 +42,14 @@ body
     left: 0;
     height: 100%;
     width: 100%;
-    background: radial-gradient(ellipse closest-corner at 45% 37% , transparent 0%, transparent 50%);
-    transition: background .1s ease-out;
+    background: radial-gradient(ellipse closest-corner at 45% 32%, #fff 0%, transparent 50%);
+    opacity: 0;
+    transition: opacity .3s ease-out;
 }
 
 .site-header a:hover #molview-logo-glare
 {
-    background: radial-gradient(ellipse closest-corner at 45% 37% , #fff 0%, transparent 50%);
+    opacity: 1;
 }
 
 #molview-mark
