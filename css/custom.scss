@@ -147,6 +147,18 @@ body
 /*
  * HTML5
  */
+
+figure > img
+{
+    margin-bottom: 15px;
+}
+
+img.backdrop
+{
+    -webkit-filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.8));
+            filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.8));
+}
+
 figcaption
 {
     font-style: italic;
