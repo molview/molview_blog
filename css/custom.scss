@@ -15,6 +15,16 @@ body
     background: #f5f5f5;
 }
 
+.post-content a
+{
+    font-weight: bold;
+}
+
+.post-content a:hover
+{
+    border-bottom: 2px solid;
+}
+
 /*
  * MolView page header
  */
