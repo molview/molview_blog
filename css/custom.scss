@@ -171,3 +171,52 @@ figcaption
     text-align: right;
     padding-bottom: 20px;
 }
+
+/*
+ * Ripple
+ */
+
+.ripple
+{
+    display: block;
+    position: relative;
+	overflow: hidden;
+}
+
+.ripple-effect
+{
+    position: absolute;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background: white;
+    opacity: 0.4;
+
+    animation: ripple-animation 8s ease-out forwards;
+    transition: opacity .3s ease-out;
+}
+
+.post-link
+{
+    position: relative;//z-index fix
+}
+
+.post > .ripple-effect
+{
+    animation: ripple-animation 2s ease-out forwards;
+}
+
+.ripple-effect.out
+{
+    opacity: 0;
+}
+
+@keyframes ripple-animation
+{
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(100);
+    }
+}
