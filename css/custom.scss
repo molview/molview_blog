@@ -115,7 +115,7 @@ body
 .posts > .post
 {
     cursor: pointer;
-    padding: 1rem 2rem;
+    padding: 0;
     border-bottom: thin solid #bdbdbd;
     transition: background .1s ease-out;
 }
@@ -136,9 +136,15 @@ body
     background: #eee;
 }
 
+.post-link
+{
+    display: block;
+    padding: 1rem 2rem;
+}
+
 @media screen and (min-width: 50rem)
 {
-    .posts > .post, #headline
+    .post-link, #headline
     {
         padding: 2rem 3rem;
     }
