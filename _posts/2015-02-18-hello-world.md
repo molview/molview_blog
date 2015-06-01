@@ -10,7 +10,7 @@ Everything around us changes and so does technology. You might be using Google C
 right now to read this article. Eight years ago Google Chrome didn't even exist
 and you were probably using Internet Explorer. Back in the day browsers were
 mainly intended to render pages with text and images (although plugin's like
-Flash and Java enabled more advanced features)
+Flash and Java enabled more advanced features).
 
 Today, browsers like Google Chrome are packed with technologies that can give
 web based applications almost the same capabilities as native applications.

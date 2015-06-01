@@ -23,7 +23,7 @@ I believe a [ribbon](http://en.wikipedia.org/wiki/Ribbon_(computing)) might be
 the solution. A ribbon is basically a number of tabs containing various tools
 including buttons, dropdown menu's, number entries and even so called
 [galleries](https://msdn.microsoft.com/en-us/library/windows/desktop/dd940501%28v=vs.85%29.aspx)
-(Argh! A Microsoft invention)
+(Argh! A Microsoft invention).
 Ribbons would fit perfectly in the add-on oriented architecture of MolView 3 since
 they are very scalable. All you have to do to get an empty panel for tools is
 adding a new tab! I guess it will also be useful on touch devices since it does
