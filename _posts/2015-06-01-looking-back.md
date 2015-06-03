@@ -6,8 +6,8 @@ summary:    A story about learning, creating and improving.
 categories: posts
 ---
 
-While working on the 3.0 specification, I decided to clarify the history of
-MolView a little and collect some screenshots from different versions.
+I'm writing a draft for MolView 3.0 and I decided to look back at the last few
+years of MolView for a while and collect some screenshots from different versions.
 I still didn't know about git (a program to systematically keep track of your code)
 when I started building MolView, so some of the old code is unrecoverable.
 I tried to restore some very old versions from my old laptop and I actually got
