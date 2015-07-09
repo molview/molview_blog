@@ -4,25 +4,25 @@
 
 body
 {
-    top: 0;
-    left: 0;
-    width: 100%;
-    overflow-x: hidden;
+	top: 0;
+	left: 0;
+	width: 100%;
+	overflow-x: hidden;
 }
 
 .site-wrap
 {
-    background: #f5f5f5;
+	background: #f5f5f5;
 }
 
 .post-content a
 {
-    font-weight: bold;
+	font-weight: bold;
 }
 
 .post-content a:hover
 {
-    border-bottom: 2px solid;
+	border-bottom: 2px solid;
 }
 
 /*
@@ -31,57 +31,57 @@ body
 
 #molview-logo-wrapper
 {
-    display: inline-block;
-    position: relative;
-    width: 4rem;
-    height: 4rem;
-    vertical-align: middle;
-    margin-right: 0.625rem;
+	display: inline-block;
+	position: relative;
+	width: 4rem;
+	height: 4rem;
+	vertical-align: middle;
+	margin-right: 0.625rem;
 }
 
 #molview-logo
 {
-    max-width: 100%;
-    max-height: 100%;
+	max-width: 100%;
+	max-height: 100%;
 }
 
 #molview-logo-glare
 {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background: radial-gradient(ellipse closest-corner at 45% 32%, #fff 0%, transparent 50%);
-    opacity: 0;
-    transition: opacity .3s ease-out;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: radial-gradient(ellipse closest-corner at 45% 32%, #fff 0%, transparent 50%);
+	opacity: 0;
+	transition: opacity .3s ease-out;
 }
 
 .site-header a:hover #molview-logo-glare
 {
-    opacity: 1;
+	opacity: 1;
 }
 
 #molview-mark
 {
-    max-height: 1.875rem;
-    margin: 0;
-    vertical-align: middle;
+	max-height: 1.875rem;
+	margin: 0;
+	vertical-align: middle;
 }
 
 @media screen and (min-width: 50rem)
 {
-    #molview-logo-wrapper
-    {
-        width: 8rem;
-        height: 8rem;
-    }
+	#molview-logo-wrapper
+	{
+		width: 8rem;
+		height: 8rem;
+	}
 
-    #molview-mark
-    {
-        max-height: 3.75rem;
-        margin: 0.7rem;
-    }
+	#molview-mark
+	{
+		max-height: 3.75rem;
+		margin: 0.7rem;
+	}
 }
 
 /*
@@ -90,74 +90,74 @@ body
 
 #headline
 {
-    margin-bottom: 3rem;
-    padding: 1rem 2rem;
-    background: #fff;
-    border-radius: 0.4rem;
-    box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
+	margin-bottom: 3rem;
+	padding: 1rem 2rem;
+	background: #fff;
+	border-radius: 0.4rem;
+	box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
 }
 
 #headline-header
 {
-    margin: 0 0 .3em 0;
+	margin: 0 0 .3em 0;
 }
 
 #headline-buttons
 {
-    font-family: sans-serif;
-    text-align: right;
-    margin: 0;
+	font-family: sans-serif;
+	text-align: right;
+	margin: 0;
 }
 
 #headline-buttons a
 {
-    margin-left: 1rem;
+	margin-left: 1rem;
 }
 
 .posts
 {
-    margin-bottom: 2rem;
-    background: #fff;
-    border-radius: 0.4rem;
-    box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
+	margin-bottom: 2rem;
+	background: #fff;
+	border-radius: 0.4rem;
+	box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
 }
 
 .posts > .post
 {
-    cursor: pointer;
-    padding: 0;
-    border-bottom: thin solid #bdbdbd;
-    transition: background .1s ease-out;
+	cursor: pointer;
+	padding: 0;
+	border-bottom: thin solid #bdbdbd;
+	transition: background .1s ease-out;
 }
 
 .posts > .post:first-child
 {
-    border-radius: 0.4rem 0.4rem 0 0;
+	border-radius: 0.4rem 0.4rem 0 0;
 }
 
 .posts > .post:last-child
 {
-    border-bottom: none;
-    border-radius: 0 0 0.4rem 0.4rem;
+	border-bottom: none;
+	border-radius: 0 0 0.4rem 0.4rem;
 }
 
 .posts > .post:hover
 {
-    background: #eee;
+	background: #eee;
 }
 
 .post-link
 {
-    display: block;
-    padding: 1rem 2rem;
+	display: block;
+	padding: 1rem 2rem;
 }
 
 @media screen and (min-width: 50rem)
 {
-    .post-link, #headline
-    {
-        padding: 2rem 3rem;
-    }
+	.post-link, #headline
+	{
+		padding: 2rem 3rem;
+	}
 }
 
 /*
@@ -166,20 +166,20 @@ body
 
 figure > img
 {
-    margin-bottom: 15px;
+	margin-bottom: 15px;
 }
 
 img.backdrop
 {
-    -webkit-filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.8));
-            filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.8));
+	-webkit-filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.8));
+			filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.8));
 }
 
 figcaption
 {
-    font-style: italic;
-    text-align: right;
-    padding-bottom: 20px;
+	font-style: italic;
+	text-align: right;
+	padding-bottom: 20px;
 }
 
 /*
@@ -188,51 +188,51 @@ figcaption
 
 .ripple, .pagination-item
 {
-    display: block;
-    position: relative;
-    overflow: hidden;
+	display: block;
+	position: relative;
+	overflow: hidden;
 }
 
 .pagination-item > .inner-link
 {
-    display: block;
+	display: block;
 	background: transparent;
 }
 
 .ripple-effect
 {
-    position: absolute;
-    border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    background: white;
-    opacity: 0.4;
+	position: absolute;
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	background: white;
+	opacity: 0.4;
 
-    animation: ripple-animation 8s ease-out forwards;
-    transition: opacity .3s ease-out;
+	animation: ripple-animation 8s ease-out forwards;
+	transition: opacity .3s ease-out;
 }
 
 .post-link
 {
-    position: relative;//z-index fix
+	position: relative;//z-index fix
 }
 
 .post > .ripple-effect
 {
-    animation: ripple-animation 2s ease-out forwards;
+	animation: ripple-animation 2s ease-out forwards;
 }
 
 .ripple-effect.out
 {
-    opacity: 0;
+	opacity: 0;
 }
 
 @keyframes ripple-animation
 {
-    from {
-        transform: scale(1);
-    }
-    to {
-        transform: scale(100);
-    }
+	from {
+		transform: scale(1);
+	}
+	to {
+		transform: scale(100);
+	}
 }
