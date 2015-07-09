@@ -28,7 +28,18 @@
 			window.setTimeout(function()
 			{
 				$ripples.remove();
-			}, 300)
+			}, 300);
+		});
+		$('.ripple').on('mouseup', function (event) {
+			// Fix hyperlink issue in Firefox
+			var href = $(this).children('a').attr('href');
+			if(href != "")
+			{
+				window.setTimeout(function()
+				{
+					window.location = href
+				}, 100);
+			}
 		});
 	});
 })(window, jQuery);

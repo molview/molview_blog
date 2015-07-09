@@ -190,7 +190,13 @@ figcaption
 {
     display: block;
     position: relative;
-	overflow: hidden;
+    overflow: hidden;
+}
+
+.pagination-item > .inner-link
+{
+    display: block;
+	background: transparent;
 }
 
 .ripple-effect
