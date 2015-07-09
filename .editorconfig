@@ -1,0 +1,11 @@
+# #############################
+# EditorConfig for MolView blog
+# #############################
+
+root = true
+
+[*]
+end_of_line = lf             # All files use Unix-style newlines.
+insert_final_newline = true  # All files have a final newline.
+charset = utf-8              # All files use UTF-8 encoding.
+indent_style = tab           # All files use tab indentation by default.
