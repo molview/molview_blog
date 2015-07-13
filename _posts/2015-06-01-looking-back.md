@@ -151,8 +151,6 @@ in the [previous post](http://blog.molview.org/posts/2015/05/23/a-new-logo/).
     </figcaption>
 </figure>
 
-Let me know what you enjoyed most about MolView so far in the comments!
-
 [molecular model kit]: http://www.molymod.com/
 [Virtual Model Kit]: http://chemagic.com/JSmolVMK2.htm
 [Chemical Identifier Resolver]: http://cactus.nci.nih.gov/chemical/structure
