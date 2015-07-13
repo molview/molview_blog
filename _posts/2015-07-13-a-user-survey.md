@@ -45,7 +45,7 @@ Which future features are popular?
 2. 2D editing tools (like: polymers, fisher projection, copy/paste)
 3. Computational chemistry (like: orbitals, molecular dynamics)
 4. Loading/saving files from MolView (to the cloud)
-5. Search features (like: sort/filter/search by properties)
+5. Search tools (like: sort/filter/search by properties)
 6. Molecular spectra analysis (like: NMR active nuclei, IR characteristics)
 7. Jmol scripting (or exposing more Jmol features)
 8. Rendering images using ray-tracing (QuteMol, POV-Ray)
