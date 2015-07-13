@@ -37,8 +37,8 @@ Which features are most popular?
 
 <canvas class="chartjs-chart" data-chart-source="charts/2015-07-13-feature-usage.json" height="250"></canvas>
 
-Which new features are popular?
--------------------------------
+Which future features are popular?
+----------------------------------
 <canvas class="chartjs-chart" data-chart-source="charts/2015-07-13-next-features.json" height="250"></canvas>
 
 1. 3D tools (like: 3D editing, more color schemes, show/hide hydrogen)
