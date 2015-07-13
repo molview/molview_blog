@@ -9,9 +9,12 @@
 	{% if page.categories %}<meta name="keywords" content="{{ page.categories | join: ', ' }}">{% endif %}
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-	<!-- Ripple effect scripts -->
-	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+	<!-- Custom scripts -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.1.6/zepto.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/numeral.js/1.4.5/numeral.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
 	<script src="{{ "/js/ripple.js" | prepend: site.baseurl }}"></script>
+	<script src="{{ "/js/charts.js" | prepend: site.baseurl }}"></script>
 
 	<!-- Custom CSS -->
 	<link rel="stylesheet" href="{{ "/css/pixyll.css" | prepend: site.baseurl }}" type="text/css">
