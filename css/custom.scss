@@ -10,13 +10,6 @@ body
 	overflow-x: hidden;
 }
 
-hr
-{
-	border: none;
-	border-top: 1px solid #aaa;
-	box-shadow: 0 0 2px #ccc;
-}
-
 .site-wrap
 {
 	background: #f5f5f5;
@@ -173,7 +166,7 @@ hr
 }
 
 /*
- * HTML5
+ * Custom article styling
  */
 
 figure > img
@@ -192,6 +185,18 @@ figcaption
 	font-style: italic;
 	text-align: right;
 	padding-bottom: 20px;
+}
+
+hr
+{
+	border: none;
+	border-top: 1px solid #aaa;
+	box-shadow: 0 0 2px #ccc;
+}
+
+ul.remark
+{
+	list-style-image: url("../img/asterisk.svg");
 }
 
 /*
