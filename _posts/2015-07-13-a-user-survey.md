@@ -87,48 +87,43 @@ email me if you want me to remove or edit your comment. I slightly edited some
 comments to remove errors or to detach it from the rest of the comment.
 
 <br/>
-<br/>
 
-> An offline application
+**Q. An offline application**
 
-Good point! I am redesigning the architecture of MolView 3 in such a way that it
-can be distributed as a Chrome App where a couple of important features can be
-used offline.
-
-<br/>
-<br/>
-
-> A drawing layer to mark a part of a molecule
-
-Great idea! In MolView 3 I will add support for add-on modules. This might just
-become such an add-on!
+**A.** Good point! I am redesigning the architecture of MolView 3 in such a way
+that it can be distributed as a Chrome App where a couple of important features
+can be used offline.
 
 <br/>
-<br/>
 
-> Rotate 3D molecules independent of each other (to compare configurations for
-> example)
+**Q. A drawing layer to mark a part of a molecule**
 
-This feature has been requested before. It's definitely useful, but technically
-it's surprisingly difficult. I'll keep thinking about it!
+**A.** Great idea! In MolView 3 I will add support for add-on modules. This
+might just become such an add-on!
 
 <br/>
+
+**Q. Rotate 3D molecules independent of each other (to compare configurations
+for example)**
+
+**A.** This feature has been requested before. It's definitely useful, but
+technically it's surprisingly difficult. I'll keep thinking about it!
+
 <br/>
 
-> Ability to draw reactions and isomers with R
+**Q. Ability to draw reactions and isomers with R**
 
-I'm planning to add a lot of new features to the sketcher of MolView 3. There
-will be all sorts of new sketching features like functional groups and perhaps
-also R.
+**A.** I'm planning to add a lot of new features to the sketcher of MolView 3.
+There will be all sorts of new sketching features like functional groups and
+perhaps also R.
 
 <br/>
-<br/>
 
-> It would be awesome if you continued to provide HTML embed codes because it
-> is one of the killer features in your app which make me use MolView from other
-> apps.
+**Q. It would be awesome if you continued to provide HTML embed codes because it
+is one of the killer features in your app which make me use MolView from other
+apps.**
 
-I definitely will! I added a deprecation message because the <u>http://molview.org/embed</u>
+**A.** I definitely will! I added a deprecation message because the <u>http://molview.org/embed</u>
 endpoint will no longer be available in MolView 3. However, I silently updated
 MolView to use <u>http://embed.molview.org/v1/</u> for embedding. MolView 3 will
 keep supporting this endpoint including the *v1* embedding parameters! You'll
@@ -136,24 +131,21 @@ have to update your embed codes to the new endpoint though. By the way,
 embedding will get even more awesome in MolView 3!
 
 <br/>
+
+**Q. It would be awesome if there were a Google Docs add-on&hellip;**
+
+**A.** Absolutely! I have been thinking about a Google Docs add-on too. I also
+want to provide a so called gadget so you can embed MolView in Google Sites!
+
 <br/>
 
-> It would be awesome if there were a Google Docs add-on...
+**Q. To prepare my school course, I search for the molecules I want to show. It
+would be nice if there is be a possibility to choose the last molecules, even if
+they are not in a database.**
 
-Absolutely! I have been thinking about a Google Docs add-on too. I also want
-to provide a so called gadget so you can embed MolView in Google Sites!
-
-<br/>
-<br/>
-
-
-> To prepare my school course, I search for the molecules I want to show. It
-> would be nice if there is be a possibility to choose the last molecules,
-> even if they are not in a database.
-
-In theory the molecule is saved to the URL as soon as you convert it to a 3D
-model. If there is no database record (which is rare because PubChem has over 50
-million compounds), a SMILES string is stored in the URL. A SMILES string can
+**A.** In theory the molecule is saved to the URL as soon as you convert it to a
+3D model. If there is no database record (which is rare because PubChem has over
+50 million compounds), a SMILES string is stored in the URL. A SMILES string can
 store (almost) any molecular structure. Therefore you can simply copy/paste the
 URL into your notes.
 
@@ -165,26 +157,23 @@ searches to your local storage, but also the entire edit history. This way you
 can continue where you left when you re-open MolView!
 
 <br/>
-<br/>
 
-> Let me know if you ever need translational help (German).
+**Q. Let me know if you ever need translational help (German).**
 
-Thank you for offering! I want to build a community-driven localization platform
-for MolView 3 and everyone is welcome to join!
-
+**A.** Thank you for offering! I want to build a community-driven localization
+platform for MolView 3 and everyone is welcome to join!
 
 <br/>
-<br/>
 
-> I love MolView! I am hoping to use it as a replacement for Spartan software,
-> so I would love to see more as far as calculations (dipole magnitude, energy
-> of formation, etc).
+**Q. I love MolView! I am hoping to use it as a replacement for Spartan
+software, so I would love to see more as far as calculations (dipole magnitude,
+energy of formation, etc).**
 
-MolView is still much simpler than Spartan and is actually not intended to
-entirely replace software like Spartan. However, making computational chemistry
-more intuitive is an important purpose of MolView, so there will definitely be
-more tools over time! And everyone will be able to contribute more tools to
-MolView by building add-ons!
+**A.** MolView is still much simpler than Spartan and is actually not intended
+to entirely replace software like Spartan. However, making computational
+chemistry more intuitive is an important purpose of MolView, so there will
+definitely be more tools over time! And everyone will be able to contribute more
+tools to MolView by building add-ons!
 
 Conclusion
 ----------
