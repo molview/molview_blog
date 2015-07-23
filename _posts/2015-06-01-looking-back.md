@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      Looking back
-date:       2015-06-01
-summary:    A story about learning, creating and improving.
+layout:	 post
+title:	  Looking back
+date:	   2015-06-01
+summary:	A story about learning, creating and improving.
 categories: posts
 ---
 
@@ -25,10 +25,10 @@ fun to finally use our knowledge about molecules to actually build them
 (unfortunately the parts ran out pretty quickly).
 
 <figure>
-    <img src="{{ site.url }}/img/2015-05-30-organic-kit.png" alt="Organic molecules constructed using a molecular model kit">
-    <figcaption>
-        Organic molecules constructed using a molecular model kit
-    </figcaption>
+	<img src="{{ site.url }}/img/2015-05-30-organic-kit.png" alt="Organic molecules constructed using a molecular model kit">
+	<figcaption>
+		Organic molecules constructed using a molecular model kit
+	</figcaption>
 </figure>
 
 At home I looked for a free, online program to build molecules but I couldn't
@@ -48,10 +48,10 @@ For this reason, the Chemical Identifier Resolver will be replaced with a progra
 running on the MolView servers in MolView 3.
 
 <figure>
-    <img class="backdrop" src="{{ site.url }}/img/history/molview-v0.1.png" alt="Mol View v0.1">
-    <figcaption>
-        v0.1 (winter 2012)
-    </figcaption>
+	<img class="backdrop" src="{{ site.url }}/img/history/molview-v0.1.png" alt="Mol View v0.1">
+	<figcaption>
+		v0.1 (winter 2012)
+	</figcaption>
 </figure>
 
 Bootstrap
@@ -63,10 +63,10 @@ for websites built by Twitter. It looked quite stylish so I rewrote the user
 interface of MolView using this toolkit.
 
 <figure>
-    <img class="backdrop" src="{{ site.url }}/img/history/molview-v0.2.png" alt="MolView v0.2">
-    <figcaption>
-        v0.2 (autumn 2013)
-    </figcaption>
+	<img class="backdrop" src="{{ site.url }}/img/history/molview-v0.2.png" alt="MolView v0.2">
+	<figcaption>
+		v0.2 (autumn 2013)
+	</figcaption>
 </figure>
 
 More data
@@ -78,10 +78,10 @@ suitable anymore so I developed a new, handwritten design to seamlessly fit all
 features in one interface (for some reason black became the primary color).
 
 <figure>
-    <img class="backdrop" src="{{ site.url }}/img/history/molview-v1.0.png" alt="MolView v1.0">
-    <figcaption>
-        v1.0 (winter 2013)
-    </figcaption>
+	<img class="backdrop" src="{{ site.url }}/img/history/molview-v1.0.png" alt="MolView v1.0">
+	<figcaption>
+		v1.0 (winter 2013)
+	</figcaption>
 </figure>
 
 A Top-Level Domain
@@ -95,10 +95,10 @@ time. MolView 2.1 (basically the same as v2.0) is the first version which is saf
 stored on GitHub.
 
 <figure>
-    <img class="backdrop" src="{{ site.url }}/img/history/molview-v2.0.png" alt="MolView v2.0">
-    <figcaption>
-        v2.0 (1st of July 2014) [<a href="https://www.youtube.com/watch?v=NtQYwBrGZhU">video</a>]
-    </figcaption>
+	<img class="backdrop" src="{{ site.url }}/img/history/molview-v2.0.png" alt="MolView v2.0">
+	<figcaption>
+		v2.0 (1st of July 2014) [<a href="https://www.youtube.com/watch?v=NtQYwBrGZhU">video</a>]
+	</figcaption>
 </figure>
 
 An autocomplete
@@ -112,10 +112,10 @@ The protein collection which you can find via the autocomplete is derived from
 the [Molecular Machinery Poster] from the Protein DataBank.
 
 <figure>
-    <img class="backdrop" src="{{ site.url }}/img/history/molview-v2.2.png" alt="MolView v2.2">
-    <figcaption>
-        v2.2 (November 2014) [<a href="https://www.youtube.com/watch?v=xDr9hn7cpLA">video</a>]
-    </figcaption>
+	<img class="backdrop" src="{{ site.url }}/img/history/molview-v2.2.png" alt="MolView v2.2">
+	<figcaption>
+		v2.2 (November 2014) [<a href="https://www.youtube.com/watch?v=xDr9hn7cpLA">video</a>]
+	</figcaption>
 </figure>
 
 A new sketcher
@@ -133,10 +133,10 @@ a couple of weeks. Today MolView has, in my opinion, one of the best molecule
 editors on the internet!
 
 <figure>
-    <img class="backdrop" src="{{ site.url }}/img/history/molview-v2.3.png" alt="MolView v2.3">
-    <figcaption>
-        v2.3 (November 2014)
-    </figcaption>
+	<img class="backdrop" src="{{ site.url }}/img/history/molview-v2.3.png" alt="MolView v2.3">
+	<figcaption>
+		v2.3 (November 2014)
+	</figcaption>
 </figure>
 
 A new logo
@@ -145,10 +145,10 @@ Recently a new logo for MolView was announced. You have probably read about it
 in the [previous post](http://blog.molview.org/posts/2015/05/23/a-new-logo/).
 
 <figure>
-    <img class="backdrop" src="{{ site.url }}/img/history/molview-v2.4.png" alt="MolView v2.4">
-    <figcaption>
-        v2.4 (May 2015)
-    </figcaption>
+	<img class="backdrop" src="{{ site.url }}/img/history/molview-v2.4.png" alt="MolView v2.4">
+	<figcaption>
+		v2.4 (May 2015)
+	</figcaption>
 </figure>
 
 [molecular model kit]: http://www.molymod.com/
