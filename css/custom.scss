@@ -40,7 +40,14 @@ body
 	display: inline-block;
 	position: relative;
 	max-width: 100%;
-	margin: 2rem 0;
+}
+
+@media screen and (min-width: 50rem)
+{
+	.site-title
+	{
+		margin: 2rem 0;
+	}
 }
 
 #molview-brand
