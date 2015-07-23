@@ -34,59 +34,34 @@ body
  * MolView page header
  */
 
-#molview-logo-wrapper
+.site-title
 {
+	float: none !important;
 	display: inline-block;
 	position: relative;
-	width: 4rem;
-	height: 4rem;
-	vertical-align: middle;
-	margin-right: 0.625rem;
-}
-
-#molview-logo
-{
 	max-width: 100%;
-	max-height: 100%;
+	margin: 2rem 0;
 }
 
-#molview-logo-glare
+#molview-brand
 {
+	display: block;
+	max-width: 100%;
+}
+
+#molview-brand-glare
+{
+	display: block;
 	position: absolute;
+	max-width: 100%;
 	top: 0;
-	left: 0;
-	height: 100%;
-	width: 100%;
-	background: radial-gradient(ellipse closest-corner at 45% 32%, #fff 0%, transparent 50%);
 	opacity: 0;
 	transition: opacity .3s ease-out;
 }
 
-.site-header a:hover #molview-logo-glare
+.site-header a:hover #molview-brand-glare
 {
 	opacity: 1;
-}
-
-#molview-mark
-{
-	max-height: 1.875rem;
-	margin: 0;
-	vertical-align: middle;
-}
-
-@media screen and (min-width: 50rem)
-{
-	#molview-logo-wrapper
-	{
-		width: 8rem;
-		height: 8rem;
-	}
-
-	#molview-mark
-	{
-		max-height: 3.75rem;
-		margin: 0.7rem;
-	}
 }
 
 /*
