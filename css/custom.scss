@@ -200,6 +200,43 @@ ul.remark
 }
 
 /*
+ * Image slider
+ */
+.image-slider
+{
+	position: relative;
+	width: 100%;
+
+	> div
+	{
+		position: absolute;
+		overflow: hidden;
+	}
+
+	> img
+	{
+		display: block;
+		width: 100%;
+	}
+
+	.top-layer
+	{
+		top: 0px;
+		bottom: 0px;
+		width: 50%;
+		border-right: 2px solid #aaa;
+		transition: width .3s ease-in;
+	}
+
+	.top-layer > img
+	{
+		display: block;
+		max-width: none;
+		height: 100%;
+	}
+}
+
+/*
  * Chart
  */
 .chartjs-wrapper
