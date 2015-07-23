@@ -82,3 +82,14 @@ as plain tables or graph representations (for a pathway database for example).
 <figure>
 	<img class="backdrop" src="{{ site.url }}/img/mockups/3.0/material/search-results.png" alt="Search results">
 </figure>
+
+Edit the design yourself!
+-------------------------
+As an experiment, I created these mockups in Google Drawings instead of the
+open-source program Inkscape, which I normally use. The files are publicly
+accessible. If you have a Google account you can easily copy one and try out a
+different color, or even add your own buttons to the toolbar! To copy a design
+to your Google Drive, go to one of the links below and click **File > Make a copy**.
+
+- [Material Design](https://docs.google.com/drawings/d/1snxt4GL7YGFi9e9fGVnRmXsuCcrP330G2hwxdvY4X_0/edit?usp=sharing)
+- [Material Design search](https://docs.google.com/drawings/d/1T7vpMMewzCaAhw5CkAYoZgAi_nAXggqYyOapigEJQD0/edit?usp=sharing)
