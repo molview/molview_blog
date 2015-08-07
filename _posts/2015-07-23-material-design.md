@@ -76,7 +76,7 @@ Advanced search
 ---------------
 A different application window is used to display multiple search results from
 databases like PubChem. You can also access more advanced search tools via this
-interface. And this interface will add more ways to dig trough databases, such
+interface. And this interface will add more ways to dig through databases, such
 as plain tables or graph representations (for a pathway database for example).
 
 <figure>
