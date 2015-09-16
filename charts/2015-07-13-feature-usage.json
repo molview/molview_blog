@@ -1,38 +1,38 @@
 {
-	"type": "PolarArea",
-	"legend": true,
-	"autocolor": true,
-	"data": [
-		{
-			"value": 34,
-			"label": "2D to 3D conversion"
-		},
-		{
-			"value": 32,
-			"label": "Small molecules"
-		},
-		{
-			"value": 29,
-			"label": "Export images"
-		},
-		{
-			"value": 18,
-			"label": "Explain 3D structure"
-		},
-		{
-			"value": 15,
-			"label": "Proteins/macromolecules"
-		},
-		{
-			"value": 14,
-			"label": "Crystal structures"
-		},
-		{
-			"value": 12,
-			"label": "View molecular spectra"
-		}
-	],
-	"options": {
-		"segmentStrokeColor": "#f5f5f5"
-	}
+    "type": "PolarArea",
+    "legend": true,
+    "autocolor": true,
+    "data": [
+        {
+            "value": 34,
+            "label": "2D to 3D conversion"
+        },
+        {
+            "value": 32,
+            "label": "Small molecules"
+        },
+        {
+            "value": 29,
+            "label": "Export images"
+        },
+        {
+            "value": 18,
+            "label": "Explain 3D structure"
+        },
+        {
+            "value": 15,
+            "label": "Proteins/macromolecules"
+        },
+        {
+            "value": 14,
+            "label": "Crystal structures"
+        },
+        {
+            "value": 12,
+            "label": "View molecular spectra"
+        }
+    ],
+    "options": {
+        "segmentStrokeColor": "#f5f5f5"
+    }
 }

@@ -1,38 +1,38 @@
 {
-	"type": "PolarArea",
-	"legend": true,
-	"autocolor": true,
-	"data": [
-		{
-			"value": 29,
-			"label": "Small screens"
-		},
-		{
-			"value": 16,
-			"label": "Touch screens"
-		},
-		{
-			"value": 12,
-			"label": "Widescreen monitors"
-		},
-		{
-			"value": 4,
-			"label": "Multiple monitors"
-		},
-		{
-			"value": 12,
-			"label": "ChromeOS"
-		},
-		{
-			"value": 7,
-			"label": "Slow hardware"
-		},
-		{
-			"value": 12,
-			"label": "Limited internet access"
-		}
-	],
-	"options": {
-		"segmentStrokeColor": "#f5f5f5"
-	}
+    "type": "PolarArea",
+    "legend": true,
+    "autocolor": true,
+    "data": [
+        {
+            "value": 29,
+            "label": "Small screens"
+        },
+        {
+            "value": 16,
+            "label": "Touch screens"
+        },
+        {
+            "value": 12,
+            "label": "Widescreen monitors"
+        },
+        {
+            "value": 4,
+            "label": "Multiple monitors"
+        },
+        {
+            "value": 12,
+            "label": "ChromeOS"
+        },
+        {
+            "value": 7,
+            "label": "Slow hardware"
+        },
+        {
+            "value": 12,
+            "label": "Limited internet access"
+        }
+    ],
+    "options": {
+        "segmentStrokeColor": "#f5f5f5"
+    }
 }

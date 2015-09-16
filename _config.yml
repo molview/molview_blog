@@ -19,16 +19,16 @@ google_plus_comments: true
 
 # Social icons
 show_social_icons: true
-github_username: molview
-twitter_username: molview
+github_username:   molview
+twitter_username:  molview
 facebook_username: molview
-google_plus_id: +MolViewOrganization
+google_plus_id:    +MolViewOrganization
 
 # Build settings
-markdown:     redcarpet
+markdown:       redcarpet
 redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     3
+    extensions: ['smart', 'tables', 'with_toc_data']
+permalink:      pretty
+paginate:       3
 sass:
-  compressed: true
+    compressed: true

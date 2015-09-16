@@ -53,7 +53,7 @@ Which future features are popular?
 <br/>
 
 <ul class="remark">
-	<li>Some users submitted new ideas. These are covered in the comments section below.</li>
+    <li>Some users submitted new ideas. These are covered in the comments section below.</li>
 </ul>
 
 How should MolView 3 look?
@@ -62,7 +62,7 @@ How should MolView 3 look?
 <canvas class="chartjs-chart" data-chart-source="charts/2015-07-13-new-design.json" height="250"></canvas>
 
 <ul class="remark">
-	<li>Users were able to pick a number between one (negative) and five (positive). Note that the differences have been magnified for convenience.</li>
+    <li>Users were able to pick a number between one (negative) and five (positive). Note that the differences have been magnified for convenience.</li>
 </ul>
 
 What are typical devices and limitations?
@@ -71,7 +71,7 @@ What are typical devices and limitations?
 <canvas class="chartjs-chart" data-chart-source="charts/2015-07-13-devices.json" height="250"></canvas>
 
 <ul class="remark">
-	<li>ChromeOS was included in the form because it is a very important target OS for MolView.</li>
+    <li>ChromeOS was included in the form because it is a very important target OS for MolView.</li>
 </ul>
 
 What applications are used together with MolView?

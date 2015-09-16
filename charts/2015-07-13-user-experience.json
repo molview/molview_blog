@@ -1,25 +1,25 @@
 {
-	"type": "Bar",
-	"data": {
-		"labels": [
-			"Teachers",
-			"Researchers",
-			"University",
-			"Enthusiast",
-			"High school"
-		],
-		"datasets": [
-			{
-				"label": "Experience",
-				"fillColor": "#f44336",
-				"strokeColor": "#f44336",
-				"highlightFill": "#ef5350",
-				"highlightStroke": "#ef5350",
-				"data": [ 3.7, 3.1, 2.9, 2.0, 1.8 ]
-			}
-		]
-	},
-	"options": {
-		"barShowStroke": false
-	}
+    "type": "Bar",
+    "data": {
+        "labels": [
+            "Teachers",
+            "Researchers",
+            "University",
+            "Enthusiast",
+            "High school"
+        ],
+        "datasets": [
+            {
+                "label": "Experience",
+                "fillColor": "#f44336",
+                "strokeColor": "#f44336",
+                "highlightFill": "#ef5350",
+                "highlightStroke": "#ef5350",
+                "data": [ 3.7, 3.1, 2.9, 2.0, 1.8 ]
+            }
+        ]
+    },
+    "options": {
+        "barShowStroke": false
+    }
 }
