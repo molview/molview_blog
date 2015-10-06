@@ -141,10 +141,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.78849406"
-     inkscape:cx="632.33904"
-     inkscape:cy="-27.659015"
+     inkscape:cx="784.53491"
+     inkscape:cy="-10.228506"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4236"
      showgrid="true"
      inkscape:snap-grids="true"
      inkscape:object-nodes="false"
@@ -196,7 +196,7 @@
          sodipodi:cy="12.5"
          sodipodi:rx="3.5"
          sodipodi:ry="3.5"
-         d="m 8,12.5 a 3.5,3.5 0 1 1 -7,0 3.5,3.5 0 1 1 7,0 z"
+         d="M 8,12.5 C 8,14.432997 6.4329966,16 4.5,16 2.5670034,16 1,14.432997 1,12.5 1,10.567003 2.5670034,9 4.5,9 6.4329966,9 8,10.567003 8,12.5 z"
          transform="matrix(1.9285777,0,0,1.9285812,-1.9285777,1020.5049)" />
       <path
          inkscape:connector-curvature="0"
@@ -220,7 +220,7 @@
        transform="matrix(9.9999998,0,0,9.9999998,99.999995,-9501.2598)">
       <path
          transform="matrix(0.79998258,0,0,0.79998258,8.1007485,1036.8624)"
-         d="m 48,10 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+         d="m 48,10 c 0,2.761424 -2.238576,5 -5,5 -2.761424,0 -5,-2.238576 -5,-5 0,-2.7614237 2.238576,-5 5,-5 2.761424,0 5,2.2385763 5,5 z"
          sodipodi:ry="5"
          sodipodi:rx="5"
          sodipodi:cy="10"
@@ -248,7 +248,7 @@
          style="fill:none;stroke:#424242;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
       <g
          id="g3839"
-         transform="translate(1.0000037,0)"
+         transform="translate(0.49991586,2.0897245e-5)"
          style="stroke:#424242;stroke-opacity:1">
         <path
            style="fill:none;stroke:#424242;stroke-width:1.00017416;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;display:inline"
@@ -304,7 +304,7 @@
          sodipodi:cy="3.5"
          sodipodi:rx="0.5"
          sodipodi:ry="0.5"
-         d="m 66,3.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
+         d="M 66,3.5 C 66,3.7761424 65.776142,4 65.5,4 65.223858,4 65,3.7761424 65,3.5 65,3.2238576 65.223858,3 65.5,3 65.776142,3 66,3.2238576 66,3.5 z"
          transform="translate(2.7231011e-6,1036.8622)" />
     </g>
   </g>
