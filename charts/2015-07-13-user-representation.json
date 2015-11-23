@@ -1,31 +1,31 @@
 {
-    "type": "Doughnut",
-    "legend": true,
-    "autocolor": true,
-    "data": [
-        {
-            "value": 40,
-            "label": "High school students"
-        },
-        {
-            "value": 37,
-            "label": "University students"
-        },
-        {
-            "value": 33,
-            "label": "Teachers"
-        },
-        {
-            "value": 21,
-            "label": "Researchers"
-        },
-        {
-            "value": 20,
-            "label": "Enthusiast"
-        }
-    ],
-    "options": {
-        "segmentStrokeColor": "#f5f5f5",
-        "tooltipTemplate": " <%=label%>: <%= numeral(circumference / 6.283).format('(0%)') %>"
+  "type": "Doughnut",
+  "legend": true,
+  "autocolor": true,
+  "data": [
+    {
+      "value": 40,
+      "label": "High school students"
+    },
+    {
+      "value": 37,
+      "label": "University students"
+    },
+    {
+      "value": 33,
+      "label": "Teachers"
+    },
+    {
+      "value": 21,
+      "label": "Researchers"
+    },
+    {
+      "value": 20,
+      "label": "Enthusiast"
     }
+  ],
+  "options": {
+    "segmentStrokeColor": "#f5f5f5",
+    "tooltipTemplate": " <%=label%>: <%= numeral(circumference / 6.283).format('(0%)') %>"
+  }
 }

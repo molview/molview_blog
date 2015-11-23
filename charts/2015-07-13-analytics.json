@@ -1,45 +1,45 @@
 {
-    "type": "Line",
-    "legend": true,
-    "data": {
-        "labels": [
-            "July",
-            "August",
-            "September",
-            "October",
-            "November",
-            "December",
-            "January",
-            "February",
-            "March",
-            "April",
-            "May",
-            "June"
-        ],
-        "datasets": [
-            {
-                "label": "Sessions",
-                "fillColor": "rgba(244, 67, 54, 0.2)",
-                "strokeColor": "rgba(244, 67, 54, 1)",
-                "pointColor": "rgba(244, 67, 54, 1)",
-                "pointStrokeColor": "#f5f5f5",
-                "pointHighlightFill": "#f5f5f5",
-                "pointHighlightStroke": "rgba(244, 67, 54, 1)",
-                "data": [ 708, 719, 1332, 2063, 2843, 3130, 2206, 2552, 3281, 4231, 3736, 4083 ]
-            },
-            {
-                "label": "Users",
-                "fillColor": "rgba(33, 150, 243, 0.2)",
-                "strokeColor": "rgba(33, 150, 243, 1)",
-                "pointColor": "rgba(33, 150, 243, 1)",
-                "pointStrokeColor": "#f5f5f5",
-                "pointHighlightFill": "#f5f5f5",
-                "pointHighlightStroke": "rgba(33, 150, 243, 1)",
-                "data": [ 419, 474, 899, 1396, 1759, 1892, 1448, 1646, 2134, 2725, 2432, 2771 ]
-            }
-        ]
-    },
-    "options": {
-        "barShowStroke": false
-    }
+  "type": "Line",
+  "legend": true,
+  "data": {
+    "labels": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "datasets": [
+      {
+        "label": "Sessions",
+        "fillColor": "rgba(244, 67, 54, 0.2)",
+        "strokeColor": "rgba(244, 67, 54, 1)",
+        "pointColor": "rgba(244, 67, 54, 1)",
+        "pointStrokeColor": "#f5f5f5",
+        "pointHighlightFill": "#f5f5f5",
+        "pointHighlightStroke": "rgba(244, 67, 54, 1)",
+        "data": [ 708, 719, 1332, 2063, 2843, 3130, 2206, 2552, 3281, 4231, 3736, 4083 ]
+      },
+      {
+        "label": "Users",
+        "fillColor": "rgba(33, 150, 243, 0.2)",
+        "strokeColor": "rgba(33, 150, 243, 1)",
+        "pointColor": "rgba(33, 150, 243, 1)",
+        "pointStrokeColor": "#f5f5f5",
+        "pointHighlightFill": "#f5f5f5",
+        "pointHighlightStroke": "rgba(33, 150, 243, 1)",
+        "data": [ 419, 474, 899, 1396, 1759, 1892, 1448, 1646, 2134, 2725, 2432, 2771 ]
+      }
+    ]
+  },
+  "options": {
+    "barShowStroke": false
+  }
 }

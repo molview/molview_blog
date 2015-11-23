@@ -1,27 +1,27 @@
 {
-    "type": "Bar",
-    "data": {
-        "labels": [
-            "Google Docs",
-            "MS Powerpoint",
-            "MS Word",
-            "Google Slides",
-            "OneDrive",
-            "Own software",
-            "Apple Keynote"
-        ],
-        "datasets": [
-            {
-                "label": "Experience",
-                "fillColor": "#ff9800",
-                "strokeColor": "#ff9800",
-                "highlightFill": "#ffa726",
-                "highlightStroke": "#ffa726",
-                "data": [ 23, 17, 14, 12, 8, 2, 1 ]
-            }
-        ]
-    },
-    "options": {
-        "barShowStroke": false
-    }
+  "type": "Bar",
+  "data": {
+    "labels": [
+      "Google Docs",
+      "MS Powerpoint",
+      "MS Word",
+      "Google Slides",
+      "OneDrive",
+      "Own software",
+      "Apple Keynote"
+    ],
+    "datasets": [
+      {
+        "label": "Experience",
+        "fillColor": "#ff9800",
+        "strokeColor": "#ff9800",
+        "highlightFill": "#ffa726",
+        "highlightStroke": "#ffa726",
+        "data": [ 23, 17, 14, 12, 8, 2, 1 ]
+      }
+    ]
+  },
+  "options": {
+    "barShowStroke": false
+  }
 }

@@ -1,26 +1,26 @@
 <div class="pagination clearfix mb1 mt4">
-    <div class="left">
-        {% if paginator.previous_page %}
-            {% if paginator.page == 2 %}
-            <div class="pagination-item ripple" data-ripple-color="#757575">
-                <a class="inner-link" href="{{ site.baseurl }}/">Newer</a>
-            </div>
-            {% else %}
-            <div class="pagination-item ripple" data-ripple-color="#757575">
-                <a class="inner-link" href="{{ site.baseurl }}/page{{paginator.previous_page}}/">Newer</a>
-            </div>
-            {% endif %}
-        {% else %}
-        <span class="pagination-item disabled">Newer</span>
-        {% endif %}
+  <div class="left">
+    {% if paginator.previous_page %}
+      {% if paginator.page == 2 %}
+      <div class="pagination-item ripple" data-ripple-color="#757575">
+        <a class="inner-link" href="{{ site.baseurl }}/">Newer</a>
+      </div>
+      {% else %}
+      <div class="pagination-item ripple" data-ripple-color="#757575">
+        <a class="inner-link" href="{{ site.baseurl }}/page{{paginator.previous_page}}/">Newer</a>
+      </div>
+      {% endif %}
+    {% else %}
+    <span class="pagination-item disabled">Newer</span>
+    {% endif %}
+  </div>
+  <div class="right">
+    {% if paginator.next_page %}
+    <div class="pagination-item ripple" data-ripple-color="#757575">
+      <a class="inner-link" href="{{ site.baseurl }}/page{{paginator.next_page}}/">Older</a>
     </div>
-    <div class="right">
-        {% if paginator.next_page %}
-        <div class="pagination-item ripple" data-ripple-color="#757575">
-            <a class="inner-link" href="{{ site.baseurl }}/page{{paginator.next_page}}/">Older</a>
-        </div>
-        {% else %}
-        <span class="pagination-item disabled">Older</span>
-        {% endif %}
-    </div>
+    {% else %}
+    <span class="pagination-item disabled">Older</span>
+    {% endif %}
+  </div>
 </div>

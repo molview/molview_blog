@@ -30,7 +30,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -534,13 +534,13 @@
      inkscape:window-height="1014"
      id="namedview446"
      showgrid="false"
-     inkscape:zoom="1.1236111"
+     inkscape:zoom="1.0986111"
      inkscape:cx="480"
      inkscape:cy="360"
      inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g3943"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
@@ -711,7 +711,7 @@
     <rect
        y="-5.5205288e-07"
        x="1.3246456e-06"
-       height="38.788624"
+       height="39.826027"
        width="1124.4996"
        id="menubar"
        style="fill:#f5f5f5;fill-opacity:1;stroke:none;display:inline" />
@@ -1290,7 +1290,7 @@
          y="170"
          x="965"
          id="tspan3930-0-27-1"
-         sodipodi:role="line">BEHAVIOUR</tspan></text>
+         sodipodi:role="line">BEHAVIOR</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"

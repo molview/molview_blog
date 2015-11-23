@@ -1,28 +1,28 @@
 {
-    "type": "Bar",
-    "data": {
-        "labels": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8"
-        ],
-        "datasets": [
-            {
-                "label": "Experience",
-                "fillColor": "#2196f3",
-                "strokeColor": "#2196f3",
-                "highlightFill": "#42a5f5",
-                "highlightStroke": "#42a5f5",
-                "data": [ 32, 25, 21, 12, 11, 7, 6, 4 ]
-            }
-        ]
-    },
-    "options": {
-        "barShowStroke": false
-    }
+  "type": "Bar",
+  "data": {
+    "labels": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "datasets": [
+      {
+        "label": "Experience",
+        "fillColor": "#2196f3",
+        "strokeColor": "#2196f3",
+        "highlightFill": "#42a5f5",
+        "highlightStroke": "#42a5f5",
+        "data": [ 32, 25, 21, 12, 11, 7, 6, 4 ]
+      }
+    ]
+  },
+  "options": {
+    "barShowStroke": false
+  }
 }

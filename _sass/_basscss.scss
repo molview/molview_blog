@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@charset 'UTF-8';
 /*
 
   BASSCSS
@@ -427,7 +427,7 @@ strong, .bold {
 }
 
 .clearfix:before, .clearfix:after {
-  content: " ";
+  content: ' ';
   display: table;
 }
 .clearfix:after {
@@ -451,8 +451,7 @@ strong, .bold {
 }
 
 @media screen and (max-width: 48em) {
-  .mobile-show,
-  .mobile-block {
+  .mobile-show, .mobile-block {
     display: block;
   }
 
@@ -475,7 +474,7 @@ strong, .bold {
   cursor: pointer;
   border: none;
   -webkit-appearance: none;
-  appearance: none;
+          appearance: none;
   white-space: nowrap;
   display: inline-block;
   line-height: 2rem;
@@ -501,7 +500,7 @@ strong, .bold {
   border-style: solid;
   border-width: 1px;
   -moz-box-sizing: border-box;
-  box-sizing: border-box;
+       box-sizing: border-box;
   max-width: 100%;
   height: 3rem;
   line-height: 2rem;
@@ -524,16 +523,11 @@ strong, .bold {
   border-radius: .25rem;
 }
 
-.form-stacked label,
-.form-stacked .input,
-.form-stacked .select {
+.form-stacked label, .form-stacked .input, .form-stacked .select {
   display: block;
   width: 100%;
 }
-.form-stacked .input,
-.form-stacked .select,
-.form-stacked .radio,
-.form-stacked .checkbox {
+.form-stacked .input, .form-stacked .select, .form-stacked .radio, .form-stacked .checkbox {
   margin-bottom: 1rem;
 }
 
@@ -617,27 +611,27 @@ strong, .bold {
 }
 
 .light-gray {
-  color: #eeeeee;
+  color: #eee;
 }
 
 .mid-gray {
-  color: #777777;
+  color: #777;
 }
 
 .dark-gray {
-  color: #333333;
+  color: #333;
 }
 
 .red {
-  color: #ff5522;
+  color: #f52;
 }
 
 .green {
-  color: #00ff66;
+  color: #0f6;
 }
 
 .orange {
-  color: #ffcc22;
+  color: #fc2;
 }
 
 .bg-white {
@@ -649,31 +643,31 @@ strong, .bold {
 }
 
 .bg-light-gray {
-  background-color: #eeeeee;
+  background-color: #eee;
 }
 
 .bg-mid-gray {
-  background-color: #777777;
+  background-color: #777;
 }
 
 .bg-dark-gray {
-  background-color: #333333;
+  background-color: #333;
 }
 
 .bg-red {
-  background-color: #ff5522;
+  background-color: #f52;
 }
 
 .bg-green {
-  background-color: #00ff66;
+  background-color: #0f6;
 }
 
 .bg-orange {
-  background-color: #ffcc22;
+  background-color: #fc2;
 }
 
 body {
-  color: #333333;
+  color: #333;
   background-color: #fff;
 }
 
@@ -693,7 +687,7 @@ a:hover {
 }
 .button:focus {
   outline: none;
-  box-shadow: 0 0 0 2px white, 0 0 1px 4px rgba(0, 150, 204, 0.5);
+  box-shadow: 0 0 0 2px white, 0 0 1px 4px rgba(0, 150, 204, .5);
 }
 
 .button-blue {
@@ -707,34 +701,28 @@ a:hover {
 
 .button-gray {
   color: #fff;
-  background-color: #777777;
+  background-color: #777;
 }
 .button-gray:hover {
   color: #fff;
-  background-color: #444444;
+  background-color: #444;
 }
 
-.form-light .input,
-.form-light .textarea,
-.form-light .select {
+.form-light .input, .form-light .textarea, .form-light .select {
   transition: box-shadow .2s ease;
-  border-color: #777777;
+  border-color: #777;
 }
-.form-light .input:focus,
-.form-light .textarea:focus,
-.form-light .select:focus {
+.form-light .input:focus, .form-light .textarea:focus, .form-light .select:focus {
   outline: none;
   border-color: #0096cc;
-  box-shadow: 0 0 0.125rem rgba(0, 150, 204, 0.5);
+  box-shadow: 0 0 .125rem rgba(0, 150, 204, .5);
 }
-.form-light .radio input,
-.form-light .checkbox input {
+.form-light .radio input, .form-light .checkbox input {
   transition: box-shadow .2s ease;
 }
-.form-light .radio input:focus,
-.form-light .checkbox input:focus {
+.form-light .radio input:focus, .form-light .checkbox input:focus {
   outline: none;
-  box-shadow: 0 0 0 2px white, 0 0 1px 4px rgba(0, 150, 204, 0.5);
+  box-shadow: 0 0 0 2px white, 0 0 1px 4px rgba(0, 150, 204, .5);
 }
 .form-light .radio input {
   border-radius: 50%;
@@ -751,7 +739,7 @@ a:hover {
 }
 
 .border-light-gray {
-  border-color: #eeeeee;
+  border-color: #eee;
 }
 
 .rounded {

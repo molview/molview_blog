@@ -15,8 +15,8 @@ the best ideas from the right design and I believe it suits the purpose of
 MolView 3 much better. It's simpler, more responsive and more colorful.
 
 <div class="image-slider">
-    <img src="{{ site.url }}/img/mockups/3.0/classic/layout.png" alt="" />
-    <div class="top-layer"><img src="{{ site.url }}/img/mockups/3.0/material/layout.png" alt="" /></div>
+  <img src="{{ site.url }}/img/mockups/3.0/classic/layout.png" alt="" />
+  <div class="top-layer"><img src="{{ site.url }}/img/mockups/3.0/material/layout.png" alt="" /></div>
 </div>
 
 Search
@@ -26,7 +26,7 @@ one of the primary features in MolView. When you focus the search input, it will
 show a pop-up like in the picture below.
 
 <figure>
-    <img class="backdrop" src="{{ site.url }}/img/mockups/3.0/material/search.png" alt="Search">
+  <img class="backdrop" src="{{ site.url }}/img/mockups/3.0/material/search.png" alt="Search">
 </figure>
 
 Guide
@@ -37,7 +37,7 @@ application as shown in the picture below. This panel will tell you what to do
 next. It will also automatically proceed to the next step.
 
 <figure>
-    <img class="backdrop" src="{{ site.url }}/img/mockups/3.0/material/guide.png" alt="Guide">
+  <img class="backdrop" src="{{ site.url }}/img/mockups/3.0/material/guide.png" alt="Guide">
 </figure>
 
 
@@ -50,7 +50,7 @@ have its own view menu containing some standard actions, for example to make
 the view fullscreen or to embed the view content in your webpage.
 
 <figure>
-    <img class="backdrop" src="{{ site.url }}/img/mockups/3.0/material/menus.png" alt="Menus">
+  <img class="backdrop" src="{{ site.url }}/img/mockups/3.0/material/menus.png" alt="Menus">
 </figure>
 
 Floating action button
@@ -68,7 +68,7 @@ modules. However, I'm still unsure whether I will retain this button in the
 final design.
 
 <figure>
-    <img class="backdrop" src="{{ site.url }}/img/mockups/3.0/material/fab.png" alt="Floating action button">
+  <img class="backdrop" src="{{ site.url }}/img/mockups/3.0/material/fab.png" alt="Floating action button">
 </figure>
 
 
@@ -80,7 +80,7 @@ interface. And this interface will add more ways to dig through databases, such
 as plain tables or graph representations (for a pathway database for example).
 
 <figure>
-    <img class="backdrop" src="{{ site.url }}/img/mockups/3.0/material/search-results.png" alt="Search results">
+  <img class="backdrop" src="{{ site.url }}/img/mockups/3.0/material/search-results.png" alt="Search results">
 </figure>
 
 Edit the mockups yourself!

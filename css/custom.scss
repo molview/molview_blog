@@ -2,308 +2,262 @@
 # Sass file with custom styles
 ---
 
-body
-{
-    top: 0;
-    left: 0;
-    width: 100%;
-    overflow-x: hidden;
+body {
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow-x: hidden;
 }
 
-.site-wrap
-{
-    background: #f5f5f5;
+.site-wrap {
+  background: #f5f5f5;
 }
 
-.post-content a
-{
-    font-weight: bold;
+.post-content a {
+  font-weight: bold;
 }
 
-.post-content a:hover
-{
-    border-bottom: 2px solid;
+.post-content a:hover {
+  border-bottom: 2px solid;
 }
 
-#comments-wrapper
-{
-    margin-top: 50px;
+#comments-wrapper {
+  margin-top: 50px;
 }
 
 /*
  * MolView page header
  */
 
-.site-title
-{
-    float: none !important;
-    display: inline-block;
-    position: relative;
-    max-width: 100%;
+.site-title {
+  float: none !important;
+  display: inline-block;
+  position: relative;
+  max-width: 100%;
 }
 
-@media screen and (min-width: 50rem)
-{
-    .site-title
-    {
-        margin: 2rem 0;
-    }
+@media screen and (min-width: 50rem) {
+  .site-title {
+    margin: 2rem 0;
+  }
 }
 
-#molview-brand
-{
-    display: block;
-    max-width: 100%;
+#molview-brand {
+  display: block;
+  max-width: 100%;
 }
 
-#molview-brand-glare
-{
-    display: block;
-    position: absolute;
-    max-width: 100%;
-    top: 0;
-    opacity: 0;
-    transition: opacity .3s ease-out;
+#molview-brand-glare {
+  display: block;
+  position: absolute;
+  max-width: 100%;
+  top: 0;
+  opacity: 0;
+  transition: opacity .3s ease-out;
 }
 
-.site-header a:hover #molview-brand-glare
-{
-    opacity: 1;
+.site-header a:hover #molview-brand-glare {
+  opacity: 1;
 }
 
 /*
  * MolView headline card and posts card
  */
 
-#headline
-{
-    margin: 3rem 0;
-    padding: 1rem 2rem;
-    background: #fff;
-    border-radius: 0.4rem;
-    box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
+#headline {
+  margin: 3rem 0;
+  padding: 1rem 2rem;
+  background: #fff;
+  border-radius: .4rem;
+  box-shadow: 0 .2rem .5rem rgba(0, 0, 0, .4);
 }
 
-#headline-header
-{
-    margin: 0 0 .3em 0;
+#headline-header {
+  margin: 0 0 .3em 0;
 }
 
-#headline-buttons
-{
-    font-family: sans-serif;
-    text-align: right;
-    margin: 0;
+#headline-buttons {
+  font-family: sans-serif;
+  text-align: right;
+  margin: 0;
 }
 
-#headline-buttons a
-{
-    margin-left: 1rem;
+#headline-buttons a {
+  margin-left: 1rem;
 }
 
-.posts
-{
-    margin-bottom: 2rem;
-    background: #fff;
-    border-radius: 0.4rem;
-    box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
+.posts {
+  margin-bottom: 2rem;
+  background: #fff;
+  border-radius: .4rem;
+  box-shadow: 0 .2rem .5rem rgba(0, 0, 0, .4);
 }
 
-.posts > .post
-{
-    cursor: pointer;
-    padding: 0;
-    border-bottom: thin solid #bdbdbd;
-    transition: background .1s ease-out;
+.posts > .post {
+  cursor: pointer;
+  padding: 0;
+  border-bottom: thin solid #bdbdbd;
+  transition: background .1s ease-out;
 }
 
-.posts > .post:first-child
-{
-    border-radius: 0.4rem 0.4rem 0 0;
+.posts > .post:first-child {
+  border-radius: .4rem .4rem 0 0;
 }
 
-.posts > .post:last-child
-{
-    border-bottom: none;
-    border-radius: 0 0 0.4rem 0.4rem;
+.posts > .post:last-child {
+  border-bottom: none;
+  border-radius: 0 0 .4rem .4rem;
 }
 
-.posts > .post:hover
-{
-    background: #eee;
+.posts > .post:hover {
+  background: #eee;
 }
 
-.post-link
-{
-    display: block;
-    padding: 1rem 2rem;
+.post-link {
+  display: block;
+  padding: 1rem 2rem;
 }
 
-@media screen and (min-width: 50rem)
-{
-    .post-link, #headline
-    {
-        padding: 2rem 3rem;
-    }
+@media screen and (min-width: 50rem) {
+  .post-link, #headline {
+    padding: 2rem 3rem;
+  }
 }
 
 /*
  * Custom article styling
  */
 
-figure > img
-{
-    margin-bottom: 15px;
+figure > img {
+  margin-bottom: 15px;
 }
 
-img.backdrop
-{
-    -webkit-filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.8));
-            filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.8));
+img.backdrop {
+  -webkit-filter: drop-shadow(0 2px 3px rgba(0, 0, 0, .8));
+          filter: drop-shadow(0 2px 3px rgba(0, 0, 0, .8));
 }
 
-figcaption
-{
-    font-style: italic;
-    text-align: right;
-    padding-bottom: 20px;
+figcaption {
+  font-style: italic;
+  text-align: right;
+  padding-bottom: 20px;
 }
 
-hr
-{
-    border: none;
-    border-top: 1px solid #aaa;
-    box-shadow: 0 0 2px #ccc;
+hr {
+  border: none;
+  border-top: 1px solid #aaa;
+  box-shadow: 0 0 2px #ccc;
 }
 
-ul.remark
-{
-    list-style-image: url("../img/asterisk.svg");
+ul.remark {
+  list-style-image: url('../img/asterisk.svg');
 }
 
 /*
  * Image slider
  */
-.image-slider
-{
-    position: relative;
+.image-slider {
+  position: relative;
+  width: 100%;
+
+  > div {
+    position: absolute;
+    overflow: hidden;
+  }
+
+  > img {
+    display: block;
     width: 100%;
+  }
 
-    > div
-    {
-        position: absolute;
-        overflow: hidden;
-    }
+  .top-layer {
+    top: 0;
+    bottom: 0;
+    width: 50%;
+    border-right: 2px solid #aaa;
+    transition: width .3s ease-in;
+  }
 
-    > img
-    {
-        display: block;
-        width: 100%;
-    }
-
-    .top-layer
-    {
-        top: 0px;
-        bottom: 0px;
-        width: 50%;
-        border-right: 2px solid #aaa;
-        transition: width .3s ease-in;
-    }
-
-    .top-layer > img
-    {
-        display: block;
-        max-width: none;
-        height: 100%;
-    }
+  .top-layer > img {
+    display: block;
+    max-width: none;
+    height: 100%;
+  }
 }
 
 /*
  * Chart
  */
-.chartjs-wrapper
-{
-    margin: 3em 0;
-    position: relative;
+.chartjs-wrapper {
+  margin: 3em 0;
+  position: relative;
 }
 
-.chartjs-chart
-{
-    width: 100%;
+.chartjs-chart {
+  width: 100%;
 }
 
-.chartjs-wrapper > ul
-{
-    margin-top: 3em;
-    list-style: none;
+.chartjs-wrapper > ul {
+  margin-top: 3em;
+  list-style: none;
 }
 
-.chartjs-wrapper > ul > li
-{
-    line-height: 2em;
+.chartjs-wrapper > ul > li {
+  line-height: 2em;
 }
 
-.chartjs-wrapper > ul > li > span
-{
-    display: inline-block;
-    margin-right: 1em;
-    width: 1em;
-    height: 1em;
-    border-radius: 1em;
-    vertical-align: middle;
+.chartjs-wrapper > ul > li > span {
+  display: inline-block;
+  margin-right: 1em;
+  width: 1em;
+  height: 1em;
+  border-radius: 1em;
+  vertical-align: middle;
 }
 
 /*
  * Ripple
  */
 
-.ripple, .pagination-item
-{
-    display: block;
-    position: relative;
-    overflow: hidden;
+.ripple, .pagination-item {
+  display: block;
+  position: relative;
+  overflow: hidden;
 }
 
-.pagination-item > .inner-link
-{
-    display: block;
-    background: transparent;
+.pagination-item > .inner-link {
+  display: block;
+  background: transparent;
 }
 
-.ripple-effect
-{
-    position: absolute;
-    border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    background: white;
-    opacity: 0.4;
-
-    animation: ripple-animation 8s ease-out forwards;
-    transition: opacity .3s ease-out;
+.ripple-effect {
+  position: absolute;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  background: white;
+  opacity: .4;
+  animation: ripple-animation 8s ease-out forwards;
+  transition: opacity .3s ease-out;
 }
 
-.post-link
-{
-    position: relative;//z-index fix
+.post-link {
+  position: relative;//z-index fix
 }
 
-.post > .ripple-effect
-{
-    animation: ripple-animation 2s ease-out forwards;
+.post > .ripple-effect {
+  animation: ripple-animation 2s ease-out forwards;
 }
 
-.ripple-effect.out
-{
-    opacity: 0;
+.ripple-effect.out {
+  opacity: 0;
 }
 
-@keyframes ripple-animation
-{
-    from {
-        transform: scale(1);
-    }
-    to {
-        transform: scale(100);
-    }
+@keyframes ripple-animation {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(100);
+  }
 }
