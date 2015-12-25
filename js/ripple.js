@@ -1,3 +1,7 @@
+// Copyright (c) 2015, Herman Bergwerf. All rights reserved.
+// Use of this source code is governed by a GFDL-1.3-style license
+// that can be found in the LICENSE file.
+
 /* global $ */
 
 $(document).on('ready', function () {
@@ -7,10 +11,10 @@ $(document).on('ready', function () {
 
     $('.ripple .ripple-effect').remove()
 
-    var $div = $('<div/>'),
-      btnOffset = $(this).offset(),
-      xPos = event.pageX - btnOffset.left,
-      yPos = event.pageY - btnOffset.top
+    var $div = $('<div/>')
+    var btnOffset = $(this).offset()
+    var xPos = event.pageX - btnOffset.left
+    var yPos = event.pageY - btnOffset.top
 
     $div.addClass('ripple-effect')
     var $ripple = $('.ripple-effect')
