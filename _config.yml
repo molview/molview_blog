@@ -1,34 +1,35 @@
 # Site settings
-title:       MolView
-email:       info@molview.org
-author:      Herman Bergwerf
-description: "MolView is an intuitive, Open-Source web-application to make chemistry and biology more awesome!"
-baseurl:     ""
-url:         "http://blog.molview.org"
+title:        MolView
+email:        info@molview.org
+author:       Herman Bergwerf
+description:  MolView is an intuitive, Open-Source web-application to make chemistry and biology more awesome!
+baseurl:      http://blog.molview.org
+url:          http://blog.molview.org
 
 # Optional features
-animated:           false
-show_related_posts: false
+animated:            false
+show_related_posts:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
 # disqus_shortname: "molview"
 
 # Google Plus comments
-google_plus_comments: true
+google_plus_comments:  true
 
 # Social icons
-show_social_icons: true
-github_username:   molview
-twitter_username:  molview
-facebook_username: molview
-google_plus_id:    +MolViewOrganization
+show_social_icons:  true
+github_username:    molview
+twitter_username:   molview
+facebook_username:  molview
+google_plus_id:     +MolViewOrganization
 
 # Build settings
-markdown:       redcarpet
+markdown:      redcarpet
 redcarpet:
-    extensions: ['smart', 'tables', 'with_toc_data']
-permalink:      pretty
-paginate:       3
+  extensions:  [smart, tables, with_toc_data]
+permalink:     pretty
+paginate:      3
 sass:
-    compressed: true
+  compressed:  true
+gems:          [jekyll-paginate]

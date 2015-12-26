@@ -4,7 +4,7 @@ title:     Hi there!
 permalink: /herman/
 ---
 
-<img src="{{ site.url }}/img/herman.jpg" style="width: 140px; margin: 10px; float: right; border-radius: 70px;" />
+<img src="{{ site.baseurl }}/img/herman.jpg" style="width: 140px; margin: 10px; float: right; border-radius: 70px;" />
 
 I'm Herman Bergwerf, the developer of MolView. I live in the Netherlands.
 Currently I'm studying for a bachelor degree in Nanobiology. Programming is my

@@ -5,7 +5,9 @@
 # that can be found in the LICENSE file.
 
 # Format all non-html files.
-molviewfmt -e '**.html'
+# Do not format css/* because csscomb in molviewfmt does not anticipate the
+# double triple dashes to help Jekyll detect Sass files.
+molviewfmt -e '**.html' -e 'css/*'
 
 # Add license headers to own files.
-molviewfmt -e '**.html' -e '_*/*' -e 'css/main.scss' -e 'css/pixyll.scss' -c 'Herman Bergwerf' -l 'GFDL-1.3'
+molviewfmt -e '**.html' -e 'css/*' -e '_*/*' -c 'Herman Bergwerf' -l 'GFDL-1.3'

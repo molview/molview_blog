@@ -1,5 +1,5 @@
 <head>
-  <base href="{{ site.url }}">
+  <base href="{{ site.baseurl }}">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
@@ -7,7 +7,7 @@
   <meta name="description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.description }}{% endif %}">
   <meta name="author" content="{{ site.author }}">
   {% if page.categories %}<meta name="keywords" content="{{ page.categories | join: ', ' }}">{% endif %}
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
   <!-- Custom scripts -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.1.6/zepto.js"></script>
@@ -36,5 +36,5 @@
   <meta property="og:site_name" content="{{ site.title }}">
 
   <!-- Icon -->
-  <link rel="shortcut icon" href="/img/favicon-32x32.png">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/img/favicon-32x32.png">
 </head>

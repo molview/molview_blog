@@ -34,4 +34,4 @@ To get an idea of what a ribbon would look like, I created a simple mockup
 the ribbon offers a lot of space the toolbars around the sketcher would no
 longer be required leaving more space for the actual sketcher!
 
-![MolView 3 Ribbon]({{ site.url }}/img/2015-03-09-ribbon.png)
+![MolView 3 Ribbon]({{ site.baseurl }}/img/2015-03-09-ribbon.png)
