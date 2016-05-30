@@ -9,8 +9,8 @@ permalink: /herman/
 I'm Herman Bergwerf, the developer of MolView. I live in the Netherlands.
 Currently I'm studying for a bachelor degree in Nanobiology. Programming is my
 biggest hobby. I've got some years of experience with native high performance
-programming, computer graphics, and web programming. Recently I also started
-rowing.
+programming, computer graphics, and web development. I try to do sports, but
+I guess that's just not really my thing.
 
 I've created MolView because I wanted to build organic molecules in my browser
 without having to suffer from archaic Java applets or extremely ugly looking
