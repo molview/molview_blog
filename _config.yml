@@ -25,7 +25,7 @@ facebook_username:  molview
 google_plus_id:     +MolViewOrganization
 
 # Build settings
-markdown:      redcarpet
+markdown:      kramdown
 redcarpet:
   extensions:  [smart, tables, with_toc_data]
 permalink:     pretty
