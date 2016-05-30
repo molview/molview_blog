@@ -7,8 +7,8 @@
 $(document).on('ready', function () {
   $('.image-slider').on('mousemove touchmove', function (e) {
     var xcoord = e.pageX ||
-      e.touches[0].pageX ||
-      e.changedTouches[0].pageX
+    e.touches[0].pageX ||
+    e.changedTouches[0].pageX
     var topLayer = $(this).children('.top-layer')
     if (xcoord - topLayer.offset().left <= $(this).width()) {
       topLayer.css({
