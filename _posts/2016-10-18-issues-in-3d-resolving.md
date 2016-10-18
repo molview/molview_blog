@@ -2,7 +2,7 @@
 title: Issues in 3D resolving
 date: '2016-10-10 18:45:00'
 layout: post
-summary: Why the 3D structure in MolView is wrong sometimes.
+summary: Why the 3D structure in MolView can be wrong sometimes.
 ---
 Recently I received some emails from users who could not get the correct 3D structure to display in MolView. In this post I want to explain two cases in a bit more detail and show how ambiguous and ill-defined chemical standards cause the 3D structure resolving tool of MolView to be wrong sometimes.
 
