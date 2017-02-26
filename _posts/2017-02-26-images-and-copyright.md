@@ -21,7 +21,7 @@ When including images in a paper or another published work, you are *NOT*
 required to cite MolView. MolView is GPL (free) software, and on top of that 
 citing software that was used to generate content it not required by copyright 
 law. This is something I also fully support myself. More information: 
-[gnu.org](https://www.gnu.org/licenses/gpl-faq.en.html#RequireCitation).
+[GNU FAQ](https://www.gnu.org/licenses/gpl-faq.en.html#RequireCitation).
 
 The data used to generate images (molecule coordinates for example) are also not 
 part of MolView. Instead they are retrieved from other sources such as PubChem. 
@@ -32,7 +32,7 @@ small molecules its *Tools > PubChem source*).
 
 Of course there is nothing that prevents you from citing MolView. This is an 
 article you could refer to: 
-[divched.org](http://confchem.ccce.divched.org/2015FallCCCENLP9).
+[confchem.ccce.divched.org/2015FallCCCENLP9](http://confchem.ccce.divched.org/2015FallCCCENLP9).
 
 # Permission
 So citation is not required, and neither is permission. As mentioned earlier, 
