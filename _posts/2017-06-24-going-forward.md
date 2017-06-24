@@ -48,13 +48,13 @@ more, consider contributing!**
 
 Supporting MolView is possible in two ways:
 
-- **A monthly contribution** on https://salt.bountysource.com/teams/molview.
+- **A monthly contribution** on [https://salt.bountysource.com/teams/molview](https://salt.bountysource.com/teams/molview).
 - **A one-time pledge** for an open issue at
-  https://www.bountysource.com/teams/molview/issues. Issues can be about a new
-  feature, or something that is not working properly. Adding new issues is
-  possible by sending me an email (*hermanbergwerf@gmail.com*), or creating the
-  issue directly on GitHub at https://github.com/molview/molview/issues with a
-  GitHub account.
+  [https://www.bountysource.com/teams/molview/issues](https://www.bountysource.com/teams/molview/issues).
+  Issues can be about a new feature, or something that is not working properly.
+  Adding new issues is possible by sending me an email (*hermanbergwerf@gmail.com*),
+  or creating the issue directly on GitHub at [https://github.com/molview/molview/issues](https://github.com/molview/molview/issues)
+  using a GitHub account.
 
 Thank you for reading this, and thank you for using MolView and being part of
 this community!
