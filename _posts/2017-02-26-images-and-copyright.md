@@ -38,4 +38,4 @@ article you could refer to:
 So citation is not required, and neither is permission. As mentioned earlier, 
 MolView is free software. Anyone is allowed to use and modify it under the terms 
 of the AGPL-3.0 license. You do not need permission to use MolView or to use the 
-images produces in MolView.
+images produced by MolView.
