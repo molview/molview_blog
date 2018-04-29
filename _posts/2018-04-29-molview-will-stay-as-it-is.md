@@ -20,9 +20,9 @@ calculations).
 
 I decided to setup an account on Bountysource where users could contribute a
 monthly or one-time amount, and also vote for new features or issues that have
-to be resolved: https://www.bountysource.com/teams/molview. I linked to this
-page from the loading popup on molview.org. So far five people have donated a
-total of 100$ (if you donated and are reading this, thank you very much, I
+to be resolved: [https://www.bountysource.com/teams/molview][1]. I linked to
+this page from the loading popup on molview.org. So far five people have donated
+a total of 100$ (if you donated and are reading this, thank you very much, I
 appreciate your support!). This is enough to keep MolView online for roughly two
 years (which is great!), but unfortunately not enough for other endeavors.
 
@@ -54,6 +54,9 @@ I will write about it on this blog.
 
 I also moved the main page for financial support to Patreon. I made this
 decision primarily because Patreon is much more well known than Bountysource.
-You can find the new page here: https://www.patreon.com/molview. If you believe
-MolView is useful, and are in the position to donate a small monthly amount,
-please consider doing so! (just 1$ would already be great).
+You can find the new page here: [https://www.patreon.com/molview][2]. If you
+believe MolView is useful, and are in the position to donate a small monthly
+amount, please consider doing so!
+
+[1]: https://www.bountysource.com/teams/molview
+[2]: https://www.patreon.com/molview
