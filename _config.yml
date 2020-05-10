@@ -22,7 +22,6 @@ show_social_icons:  true
 github_username:    molview
 twitter_username:   molview
 facebook_username:  molview
-google_plus_id:     +MolViewOrganization
 
 # Build settings
 markdown:      kramdown
