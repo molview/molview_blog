@@ -3,8 +3,8 @@ title:        MolView
 email:        info@molview.org
 author:       Herman Bergwerf
 description:  MolView is an intuitive, Open-Source web-application to make chemistry and biology more awesome!
-baseurl:      http://blog.molview.org
-url:          http://blog.molview.org
+baseurl:      //blog.molview.org
+url:          //blog.molview.org
 
 # Optional features
 animated:            false
