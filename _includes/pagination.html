@@ -3,11 +3,11 @@
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
       <div class="pagination-item ripple" data-ripple-color="#757575">
-        <a class="inner-link" href="{{ site.baseurl }}/">Newer</a>
+        <a class="inner-link" href="{{ "/" | relative_url }}">Newer</a>
       </div>
       {% else %}
       <div class="pagination-item ripple" data-ripple-color="#757575">
-        <a class="inner-link" href="{{ site.baseurl }}/page{{paginator.previous_page}}/">Newer</a>
+        <a class="inner-link" href="{{ "/page" | append: paginator.previous_page | relative_url }}">Newer</a>
       </div>
       {% endif %}
     {% else %}
@@ -17,7 +17,7 @@
   <div class="right">
     {% if paginator.next_page %}
     <div class="pagination-item ripple" data-ripple-color="#757575">
-      <a class="inner-link" href="{{ site.baseurl }}/page{{paginator.next_page}}/">Older</a>
+      <a class="inner-link" href="{{ "/page" | append: paginator.next_page | relative_url }}">Older</a>
     </div>
     {% else %}
     <span class="pagination-item disabled">Older</span>

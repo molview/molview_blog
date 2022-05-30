@@ -1,10 +1,8 @@
 # Site settings
 title:        MolView
-email:        info@molview.org
 author:       Herman Bergwerf
 description:  MolView is an intuitive, Open-Source web-application to make chemistry and biology more awesome!
-baseurl:      //blog.molview.org
-url:          //blog.molview.org
+url:          blog.molview.org
 
 # Optional features
 animated:            false
@@ -14,14 +12,10 @@ show_related_posts:  false
 # (leave blank to disable Disqus)
 # disqus_shortname: "molview"
 
-# Google Plus comments
-google_plus_comments:  true
-
 # Social icons
 show_social_icons:  true
 github_username:    molview
 twitter_username:   molview
-facebook_username:  molview
 
 # Build settings
 markdown:      kramdown
@@ -31,4 +25,4 @@ permalink:     pretty
 paginate:      3
 sass:
   compressed:  true
-gems:          [jekyll-paginate]
+plugins:       [jekyll-paginate]

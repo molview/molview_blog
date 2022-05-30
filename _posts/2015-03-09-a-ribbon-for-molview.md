@@ -23,7 +23,6 @@ I believe a [ribbon](http://en.wikipedia.org/wiki/Ribbon_(computing)) might be
 the solution. A ribbon is basically a number of tabs containing various tools
 including buttons, dropdown menu's, number entries and even so called
 [galleries](https://msdn.microsoft.com/en-us/library/windows/desktop/dd940501%28v=vs.85%29.aspx)
-(Argh! A Microsoft invention).
 Ribbons would fit perfectly in the add-on oriented architecture of MolView 3
 since they are very scalable. All you have to do to get an empty panel for tools
 is adding a new tab! I guess it will also be useful on touch devices since it
@@ -34,4 +33,4 @@ To get an idea of what a ribbon would look like, I created a simple mockup
 the ribbon offers a lot of space the toolbars around the sketcher would no
 longer be required leaving more space for the actual sketcher!
 
-![MolView 3 Ribbon]({{ site.baseurl }}/img/2015-03-09-ribbon.png)
+![MolView 3 Ribbon](/img/2015-03-09-ribbon.png)

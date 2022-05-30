@@ -24,22 +24,22 @@ to get an impression of how much each user category uses MolView (so a user who
 uses MolView often adds five points to his/her user category while a user who
 uses MolView occasionally only adds one point).
 
-<canvas class="chartjs-chart" data-chart-source="charts/2015-07-13-user-representation.json" height="200"></canvas>
+<canvas class="chartjs-chart" data-chart-source="/charts/2015-07-13-user-representation.json" height="200"></canvas>
 
 The chart below shows the average experience with similar software, such as
 ChemDoodle, PyMOL, Jmol and ChemWriter, per user category. Users were again
 asked to choose a number between 1 (no experience) and 5 (much experience).
 
-<canvas class="chartjs-chart" data-chart-source="charts/2015-07-13-user-experience.json" height="250"></canvas>
+<canvas class="chartjs-chart" data-chart-source="/charts/2015-07-13-user-experience.json" height="250"></canvas>
 
 Which features are most popular?
 --------------------------------
 
-<canvas class="chartjs-chart" data-chart-source="charts/2015-07-13-feature-usage.json" height="250"></canvas>
+<canvas class="chartjs-chart" data-chart-source="/charts/2015-07-13-feature-usage.json" height="250"></canvas>
 
 Which future features are popular?
 ----------------------------------
-<canvas class="chartjs-chart" data-chart-source="charts/2015-07-13-next-features.json" height="250"></canvas>
+<canvas class="chartjs-chart" data-chart-source="/charts/2015-07-13-next-features.json" height="250"></canvas>
 
 1. 3D tools (like: 3D editing, more color schemes, show/hide hydrogen)
 2. 2D editing tools (like: polymers, fisher projection, copy/paste)
@@ -59,7 +59,7 @@ Which future features are popular?
 How should MolView 3 look?
 --------------------------
 
-<canvas class="chartjs-chart" data-chart-source="charts/2015-07-13-new-design.json" height="250"></canvas>
+<canvas class="chartjs-chart" data-chart-source="/charts/2015-07-13-new-design.json" height="250"></canvas>
 
 <ul class="remark">
   <li>Users were able to pick a number between one (negative) and five (positive). Note that the differences have been magnified for convenience.</li>
@@ -68,7 +68,7 @@ How should MolView 3 look?
 What are typical devices and limitations?
 -----------------------------------------
 
-<canvas class="chartjs-chart" data-chart-source="charts/2015-07-13-devices.json" height="250"></canvas>
+<canvas class="chartjs-chart" data-chart-source="/charts/2015-07-13-devices.json" height="250"></canvas>
 
 <ul class="remark">
   <li>ChromeOS was included in the form because it is a very important target OS for MolView.</li>
@@ -77,7 +77,7 @@ What are typical devices and limitations?
 What applications are used together with MolView?
 -------------------------------------------------
 
-<canvas class="chartjs-chart" data-chart-source="charts/2015-07-13-other-programs.json" height="250"></canvas>
+<canvas class="chartjs-chart" data-chart-source="/charts/2015-07-13-other-programs.json" height="250"></canvas>
 
 Comments from users
 -------------------
@@ -180,12 +180,8 @@ Conclusion
 MolView has gained a lot of users since it was first released on
 <u>molview.org</u> one year ago. I've collected some analytics in the line chart
 below. There have been over 30.000 sessions in the past year! Traffic has
-sextupled (&hellip;) since July 2014 (it's not entirely a fair comparison, but
-let's forget that for a second) If MolView can maintain this growth there will
-be 30k sessions per month by July next year! And to think there has barely been
-any advertisement yet.
+sextupled since July 2014. If MolView can maintain this growth there will be 30k
+sessions per month by July next year!
 
-<canvas class="chartjs-chart" data-chart-source="charts/2015-07-13-analytics.json" height="250"></canvas>
+<canvas class="chartjs-chart" data-chart-source="/charts/2015-07-13-analytics.json" height="250"></canvas>
 
-I've been working on an out of the box design for MolView in the past month.
-I'll publish the mockups soon. Stay tuned!
