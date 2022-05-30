@@ -7,7 +7,7 @@ categories: posts
 ---
 
 I have been wanting to write this for a while, and today I finally got to it.
-In the previous post on this blog, which was written a little under a year ago,
+In a previous post on this blog, which was written a little under a year ago,
 I wrote about my ambitious plans to develop new features for MolView. I also
 wanted to develop it from scratch, because in the meantime my programming style
 had radically changed, and I had much better ideas about how to write software.
@@ -24,31 +24,25 @@ to be resolved: [https://www.bountysource.com/teams/molview][1]. I linked to
 this page from the loading popup on molview.org. So far five people have donated
 a total of 100$ (if you donated and are reading this, thank you very much, I
 appreciate your support!). This is enough to keep MolView online for roughly two
-years (which is great!), but unfortunately not enough for other endeavors.
+years, but not enough for other endeavors.
 
 I think it is time to face the fact that MolView is good enough as it is. Based
 on recent estimates there are about .6 million users a year, which is something
 that definitely makes me proud! But right now there is simply not enough
-traction to support further development. I do not have time to push this more
-(and for example write grant proposals), and despite the fact that some features
-are repeatedly requested (such as Lewis-dot diagrams), I think the vast majority
-of MolView users is already covered by the current feature set.
+traction to support further development. I do not have time to push this more,
+and despite the fact that some features are repeatedly requested, I think the
+vast majority of MolView users is already covered by the current feature set.
 
 New features I personally found very interesting include a more sophisticated
-integration of MolView into other websites (embedding molecules with visualized
-bond angles for example), and providing MolView in other languages such as
-Spanish, French and Chinese (potentially making it easier to use for millions of
-younger students).
+integration of MolView into other websites, and providing MolView in other
+languages such as Spanish, French and Chinese.
 
 ## The bottom line
 
 I more or less officially announce that MolView will stay as it is right now,
 and that at this time no plans exist to change it. I will keep doing my best to
 answer support emails, and keep MolView online and accessible for free. I have
-no plans to add advertising to MolView.org, in part because I am a strong
-opponent of advertising in general (think about it, what would a world without
-advertising actually look like?). If anything happens that changes any of this,
-I will write about it on this blog.
+no plans to ever add advertising to MolView.org.
 
 ## Patreon page
 

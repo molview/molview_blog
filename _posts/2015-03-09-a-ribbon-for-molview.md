@@ -4,6 +4,7 @@ title:      A ribbon for MolView
 date:       2015-03-09
 summary:    An MS Office style ribbon in MolView? This is what it might look like!
 categories: posts
+published:  false
 ---
 
 MolView currently uses a classic style, single level dropdown menu to provide

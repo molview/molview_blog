@@ -4,6 +4,7 @@ title:      Going forward
 date:       2017-06-24
 summary:    Starting from scratch, again.
 categories: posts
+published:  false
 ---
 
 Almost two years ago, I decided I wanted to rewrite MolView from scratch. I

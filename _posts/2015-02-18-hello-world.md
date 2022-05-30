@@ -4,6 +4,7 @@ title:      Hello World!
 date:       2015-02-18
 summary:    MolView now has an official blog and here is why.
 categories: posts
+published:  false
 ---
 
 Everything around us changes and so does technology. You might be using Google
