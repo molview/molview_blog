@@ -15,7 +15,6 @@ show_related_posts:  false
 # Social icons
 show_social_icons:  true
 github_username:    molview
-twitter_username:   molview
 
 # Build settings
 markdown:      kramdown
