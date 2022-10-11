@@ -2,7 +2,7 @@
 layout:     post
 title:      Looking back
 date:       2015-06-01
-summary:    A story about learning, creating and improving.
+summary:    A story about learning and creating.
 categories: posts
 ---
 

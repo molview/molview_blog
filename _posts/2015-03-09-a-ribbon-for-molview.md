@@ -2,7 +2,7 @@
 layout:     post
 title:      A ribbon for MolView
 date:       2015-03-09
-summary:    An MS Office style ribbon in MolView? This is what it might look like!
+summary:    An MS Office style ribbon in MolView?
 categories: posts
 published:  false
 ---

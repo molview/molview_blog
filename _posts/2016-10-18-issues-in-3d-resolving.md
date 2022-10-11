@@ -1,8 +1,9 @@
 ---
-title: Issues in 3D resolving
-date: '2016-10-10 18:45:00'
-layout: post
-summary: Why the 3D structure in MolView can be wrong sometimes.
+layout:     post
+title:      Issues in 3D resolving
+date:       2016-10-10
+summary:    The 3D structure in MolView is wrong sometimes.
+categories: posts
 ---
 
 Recently I received some emails from users who could not get the correct 3D

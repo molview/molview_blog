@@ -2,7 +2,7 @@
 layout:     post
 title:      A user survey
 date:       2015-07-13
-summary:    What MolView users really want.
+summary:    What do MolView users want?
 categories: posts
 ---
 

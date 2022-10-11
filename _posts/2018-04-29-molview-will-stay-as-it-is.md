@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      MolView will stay as it is
+title:      MolView will stay the same
 date:       2018-04-29
-summary:    No new features are planned.
+summary:    There are no plans for new features.
 categories: posts
 ---
 
@@ -13,10 +13,9 @@ wanted to develop it from scratch, because in the meantime my programming style
 had radically changed, and I had much better ideas about how to write software.
 But since there also were (and still are) other projects I wanted to spend my
 free time on, I promised myself I would only invest more time in MolView if it
-turned out popular enough to collect a decent amount of donations. This would be
-not only to make up for the invested time, but also cover service costs and
-allow investment in additional services (such as web-servers to perform relevant
-calculations).
+turned out popular enough to collect a decent amount of donations. This would
+not only make up for the invested time, but also cover service costs and allow
+investment in additional services (such as web-servers to perform calculations).
 
 I decided to setup an account on Bountysource where users could contribute a
 monthly or one-time amount, and also vote for new features or issues that have

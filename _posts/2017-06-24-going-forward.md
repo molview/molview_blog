@@ -2,7 +2,7 @@
 layout:     post
 title:      Going forward
 date:       2017-06-24
-summary:    Starting from scratch, again.
+summary:    Funding MolView on BountySource.
 categories: posts
 published:  false
 ---
@@ -17,7 +17,7 @@ working on this for almost a year I decided to trash my code. My idealistic
 design had gotten to a point where it became a huge burden.
 
 In the year that followed I have worked on other projects that caught my
-attention. In particular [Bromium](https://github.com/hermanbergwerf/bromium),
+attention. In particular [Bromium](https://github.com/bergwerf/bromium),
 a simulation engine for stochastic particle simulations, and
 [QEDb](https://github.com/qedb), a database for mathematical proofs (an
 ambitious goal that has challenged me profoundly, and a project that has

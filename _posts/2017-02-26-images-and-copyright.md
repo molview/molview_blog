@@ -1,10 +1,9 @@
 ---
-title: Images and copyright
-date: 2017-02-26
-categories:
-- posts
-layout: post
-summary: Clarifiation on copyright on exported images
+layout:     post
+title:      Images and copyright
+date:       2017-02-26
+summary:    Copyright on exported images.
+categories: posts
 ---
 
 In the past years I have received numerous questions about the usage and 

@@ -2,7 +2,7 @@
 layout:     post
 title:      Hello World!
 date:       2015-02-18
-summary:    MolView now has an official blog and here is why.
+summary:    MolView now has a blog!
 categories: posts
 published:  false
 ---
